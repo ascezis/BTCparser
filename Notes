@@ -1,0 +1,2 @@
+1. Если код ориентирован на браузеры, то библиотеки подключаются напрямую через html, иначе
+будет ошибка: "Uncaught ReferenceError: require is not defined", т.к. Import/require нужен Node.js

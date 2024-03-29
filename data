@@ -1,0 +1,31 @@
+<div id="＿layout">
+    <div data-v-1fd23c4b class="page-trade＿wrapper"> (flex)
+        >
+        <div data-v-1fd23c4b class="common-header page-trade＿header">@</div>
+        Y
+        <div data-v-1fd23c4b class="trade Layout-basic page-trade＿container">
+            <div class="page-trade"> (flex)
+                >
+                <div class="page-trade＿left"> @</div>
+                Y
+                <div class="page-trade＿main">(#lex
+                    <div class="page-trade＿ticker">
+                        <div data-v-4f673445 class="trade-ticker">
+                            <div data-v-4f673445 class="ticker"> (#lex)
+                                <div class="small"> (flex)
+                                    Y
+                                    <div class="small-left"> (flex)
+                                        <
+                                        <div stop="1" klass="symbol-name is-not-etp"> flex
+                                            ><p> … </p>( flex
+                                            <!---->
+                                            ><><a real="no opener no referrer" class="info-href info-href-intro">@</a>
+                                            flex)
+                                            <i class="dropdown icon-arrow-down-blue"></i>
+                                        </div>
+                                        <div class="price-container" style>
+                                            class="price color-up "> [цена] </span> (flex
+                                            class="estimate">= 70293.68
+                                            USD</span>
+                                        </div>
+                                    </div>
